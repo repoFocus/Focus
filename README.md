@@ -8,7 +8,7 @@ executer bot.py
 
 attendre que le script soit lancé
 
-executer event.py
+executer event.py dans un autre terminal
 
 attendre de voir "Server not setuped yet"
 
