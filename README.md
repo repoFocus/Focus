@@ -23,3 +23,4 @@ utiliser les autres commandes /add, /remove ect pour ajouter ou retirer des wall
 
 
 SERVER DISCORD AVEC LE BOT DESSUS POUR TESTER FRED: https://discord.gg/CC3PjGUj
+et j'ai rajouté un fichier adrList avec pleins d'adresses, t'as juste a copier coller le contenue dans adr.txt et tu pourras tester, sinon utilise la commande /add sur discord pour en ajouter une a une, selectionne bien la chaine ETH à chaque fois j'ai finis que elle.
