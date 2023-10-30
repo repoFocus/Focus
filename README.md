@@ -4,7 +4,7 @@ military grade wallet listener
 
 # Pour le lancer:
 
-executer bot.py
+executer bot.py \n
 attendre que le script soit lancé
 executer event.py
 attendre de voir "Server not setuped yet"
