@@ -5,8 +5,11 @@ military grade wallet listener
 # Pour le lancer:
 
 executer bot.py
+
 attendre que le script soit lancé
+
 executer event.py
+
 attendre de voir "Server not setuped yet"
 
 taper la commmande /setup sur le server discord ou le bot est présent
