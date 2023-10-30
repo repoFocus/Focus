@@ -1,0 +1,6 @@
+ajouter la chain bnb, sepolia, ect
+utiliser une db SQL
+fais en sorte de voir les token erc transferer
+bien mettre la chain bnb dans management add wallet la le truc bad
+ajouter une commande /search wallet.adr pour avoir toute les infos sur un wallet (sa dernière transac, la date de sa dernière transac ect)
+bug dernière adresse pas pris en compte dans le listener
